@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355824436402",
+    "project_id": "farm-easy-811e7",
+    "storage_bucket": "farm-easy-811e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355824436402:android:6f1cd1a7fb52d8bc79f5ab",
+        "android_client_info": {
+          "package_name": "com.example.farm_easy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTyBnfkMC51ZKp0W-k9VorXtB5d84d8EM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
